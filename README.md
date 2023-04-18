@@ -2,7 +2,7 @@
 
 ---
 
-- 🔭 I’m currently working [my Bitcoin-Overview](https://github.com/RealCocoArdo/BitcoinOverview)
+- 🔭 I’m currently working my own [Bitcoin-Overview](https://github.com/RealCocoArdo/BitcoinOverview)
 - 🌱 I’m constantly learning to adopt professional development in generell.
 - 😄 I am a hobby developer since 2015.
 - 🤔 I’m looking for help with setting up a DNS.
