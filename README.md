@@ -4,7 +4,6 @@
 - 😄 I am a hobby developer since 2015.
 - 💬 Ask me about chess.
 - 📫 How to reach me: [Contact page](https://cocoardo.vercel.app/pages/contact.html)
-
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=realcocoardo&show_icons=true&locale=en" alt="realcocoardo" width="45%" height="220" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=realcocoardo&" alt="realcocoardo" width="45%" height="220" />
