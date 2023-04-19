@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=realcocoardo&label=Profile%20views&color=0e75b6" alt="ashutosh-pmishra" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=realcocoardo&label=Profile%20views&color=0e75b6" alt="ashutosh-pmishra" /></p>
 
 ### Hi there 👋
 - 🔭 I’m currently working my own [Bitcoin-Overview](https://github.com/RealCocoArdo/BitcoinOverview)
@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with setting up a DNS.
 - 💬 Ask me about chess.
 - 📫 How to reach me: [Contact page](https://cocoardo.vercel.app/pages/contact.html)
-<br>
 
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=realcocoardo&show_icons=true&locale=en" alt="realcocoardo" width="45%" height="220" />
