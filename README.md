@@ -1,8 +1,9 @@
 ### Hi there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=realcocoardo&label=Profile%20views&color=0e75b6" alt="ashutosh-pmishra" /></p>
-- 🔭 I’m currently working my own [Bitcoin-Overview](https://github.com/RealCocoArdo/BitcoinOverview)
-- 🌱 I’m constantly learning to adopt professional development.
 - 😄 I am a hobby developer since 2015.
-- 💬 Ask me about chess.
+- 🌱 I’m constantly learning to adopt professional development.
+- 🔮 I’m currently working my own [Bitcoin-Overview](https://github.com/RealCocoArdo/BitcoinOverview)
+- 🔭 Worth to take a look at: [Chess-Wallet](https://github.com/RealCocoArdo/Chess-Wallet)
+- 💬 Ask me about archery
 - 📫 How to reach me: [Contact page](https://cocoardo.vercel.app/pages/contact.html)
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=realcocoardo&show_icons=true&locale=en" alt="realcocoardo" width="45%" height="220" />
