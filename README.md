@@ -2,7 +2,7 @@
 - 😄 I am a hobby developer since 2015.
 - 🌱 I’m constantly learning to adopt professional development.
 - 🔮 I’m currently working my own [Bitcoin-Overview](https://github.com/RealCocoArdo/BitcoinOverview)
-- 🔭 Worth to take a look at: [Chess-Wallet-App](https://github.com/RealCocoArdo/Chess-Wallet-App)
+- 🔭 Worth to take a look at: [Chess-Wallet-App](https://github.com/RealCocoArdo/Chess-Wallet-App) and my [free website template](https://github.com/RealCocoArdo/free-website-template)
 - 💬 Ask me about archery
 - 📫 How to reach me: [Contact page](https://cocoardo.vercel.app/pages/contact.html)
 <div>
