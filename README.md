@@ -1,6 +1,9 @@
 <link rel="stylesheet" href="main.css">
+<body>
 
-### Hi there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=realcocoardo&label=Profile%20views&color=0e75b6" alt="ashutosh-pmishra" /></p>
+<h1> Hi there 👋</h1><img align="right" src="https://komarev.com/ghpvc/?username=realcocoardo&label=Profile%20views&color=0e75b6" alt="ashutosh-pmishra" />
+<div class="pika"><img src="pikachu3.png"/></div>
+
 - 😄 I am a hobby developer since 2015.
 - 🌱 I’m constantly learning to adopt professional development.
 - 🔮 I’m currently working my own [Bitcoin-Overview](https://github.com/RealCocoArdo/BitcoinOverview)
@@ -9,12 +12,13 @@
 - 📫 How to reach me: [Contact page](https://cocoardo.vercel.app/pages/contact.html)
 
 <div class="stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=realcocoardo&show_icons=true&locale=en" alt="realcocoardo" width="45%" height="220" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=realcocoardo&" alt="realcocoardo" width="45%" height="220" />
+    <img src="https://github-readme-stats.vercel.app/api?username=realcocoardo&show_icons=true&locale=en" alt="realcocoardo" width="45%" height="220" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=realcocoardo&" alt="realcocoardo" width="45%" height="220" />
 </div>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br>
 <p align="center">My languages and tools</p>
+
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -28,8 +32,9 @@
     <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="r-project" width="40" height="40"/> </a>
 </p>
 
-<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
+</body>
 <!--
 Language Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realcocoardo&show_icons=true&locale=en&layout=compact" alt="realcocoardo" /></p>
