@@ -1,8 +1,6 @@
-<link rel="stylesheet" href="main.css">
-<body>
-
-<h1> Hi there 👋</h1><img align="right" src="https://komarev.com/ghpvc/?username=realcocoardo&label=Profile%20views&color=0e75b6" alt="ashutosh-pmishra" />
-<div class="pika"><img src="pikachu3.png"/></div>
+<h1> Hi there 👋</h1>
+<img align="right" src="https://komarev.com/ghpvc/?username=realcocoardo&label=Profile%20views&color=0e75b6" alt="ashutosh-pmishra" /><br>
+<img align="right" src="pikachu3.png"/>
 
 - 😄 I am a hobby developer since 2015.
 - 🌱 I’m constantly learning to adopt professional development.
@@ -11,12 +9,12 @@
 - 💬 Ask me about archery
 - 📫 How to reach me: [Contact page](https://cocoardo.vercel.app/pages/contact.html)
 
-<div class="stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=realcocoardo&show_icons=true&locale=en" alt="realcocoardo" width="45%" height="220" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=realcocoardo&" alt="realcocoardo" width="45%" height="220" />
+<div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=realcocoardo&show_icons=true&locale=en" alt="realcocoardo" width="45%" height="220" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=realcocoardo&" alt="realcocoardo" width="45%" height="220" />
 </div>
 
-<br><br>
+<br><br><br><br><br><br><br><br><br>
 <p align="center">My languages and tools</p>
 
 <p align="center">
@@ -34,7 +32,6 @@
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-</body>
 <!--
 Language Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realcocoardo&show_icons=true&locale=en&layout=compact" alt="realcocoardo" /></p>
