@@ -7,6 +7,7 @@
 - 🔮 I’m currently working my own [Bitcoin-Overview](https://github.com/RealCocoArdo/BitcoinOverview)
 - 🔭 Worth to take a look at: [Chess-Wallet-App](https://github.com/RealCocoArdo/Chess-Wallet-App) and my [free website template](https://github.com/RealCocoArdo/free-website-template)
 - 💬 Ask me about archery
+- ⚡ Fun to play with: [Bruteforce private keys](https://github.com/RealCocoArdo/bruteforce-random-bitcoin-privatekeys) and [Bruteforce sha256](https://github.com/RealCocoArdo/bruteforce-sha256)
 - 📫 How to reach me: [Contact page](https://cocoardo.vercel.app/pages/contact.html)
 
 <div>
