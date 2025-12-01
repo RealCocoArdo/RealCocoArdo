@@ -9,11 +9,6 @@
 - 💬 Ask me about archery
 - ⚡ Fun to play with: [Bruteforce private keys](https://github.com/RealCocoArdo/bruteforce-random-bitcoin-privatekeys) and [Bruteforce sha256](https://github.com/RealCocoArdo/bruteforce-sha256)
 
-<div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=realcocoardo&show_icons=true&locale=en" alt="realcocoardo" width="45%" height="220" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=realcocoardo&" alt="realcocoardo" width="45%" height="220" />
-</div>
-
 <br><br><br><br><br><br><br><br><br><br>
 <p align="center">My languages and tools</p>
 
