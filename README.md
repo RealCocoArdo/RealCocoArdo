@@ -7,7 +7,7 @@
 - 🔮 I stopped working on my own [Bitcoin-Overview](https://github.com/RealCocoArdo/BitcoinOverview), but you should check it out.
 - 🔭 Worth to take a look at: [Chess-Wallet-App](https://github.com/RealCocoArdo/Chess-Wallet-App) and my [free website template](https://github.com/RealCocoArdo/free-website-template)
 - 💬 Ask me about archery
-- ⚡ Make sure to check out my Website [CocoArdo.org](https://CocoArdo.orh)
+- ⚡ Make sure to check out my Website <a href="https://CocoArdo.org" target="_blank" rel="noreferrer">CocoArdo.org </a>
 
 <br><br><br><br><br><br><br><br><br><br>
 <p align="center">My languages and tools</p>
